@@ -54,14 +54,21 @@ This is a brand-new (!) dataset from an open-access paper published December 10,
 
 1. Age group of people suffering from Pancreatic cancer
 
+![1](https://user-images.githubusercontent.com/99526815/167557512-ee07e720-a2ad-4627-b69d-3efad8bd2e3a.PNG)
 
 2. Number of Male and Female Patients
 
+![2](https://user-images.githubusercontent.com/99526815/167557555-c4126df8-a3d3-4ec4-8bd0-3ee908b447ff.PNG)
 
 3. Dignosis of Patients
 
+![3](https://user-images.githubusercontent.com/99526815/167557595-b88cc78b-b0c6-402b-a4a1-eb57533a7a49.PNG)
 
 4. most of the cases found at Age
 
+![4](https://user-images.githubusercontent.com/99526815/167557620-dfed958b-4b0e-4f04-b476-98ebf91f195d.PNG)
 
 5. urinary biomarkers
+
+![5](https://user-images.githubusercontent.com/99526815/167557651-754e5bde-c284-4427-a139-afce6b774a24.PNG)
+
